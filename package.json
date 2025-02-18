@@ -43,5 +43,10 @@
 		"onlyBuiltDependencies": [
 			"esbuild"
 		]
+	},
+	"dependencies": {
+		"@threlte/core": "^8.0.1",
+		"@threlte/extras": "^9.0.1",
+		"three": "^0.173.0"
 	}
 }
